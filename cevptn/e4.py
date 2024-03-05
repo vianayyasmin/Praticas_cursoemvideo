@@ -1,0 +1,10 @@
+#how to use output functions
+w = input('Write something: ')
+print("The primitive type of this value is", type(w))
+print("It only have spaces?", w.isspace())
+print("It is a number?", w.isnumeric())
+print("It is alphabetic?", w.isalpha())
+print("It is alphanumeric?", w.isalnum())
+print("Is it in uppercase?", w.isupper())
+print("Is it in lowercase?", w.islower())
+print("Is it capitalized?", w.istitle())
