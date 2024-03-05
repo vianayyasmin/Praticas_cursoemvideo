@@ -1,2 +1,3 @@
 #how to use 'print' function
-print("Hello, world!")
+print("Hello!")
+
